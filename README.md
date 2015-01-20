@@ -1,4 +1,4 @@
-HeapDataStructure
+Heap
 =================
 
-Heap Data Structure
+Very simple Heap implementation.
