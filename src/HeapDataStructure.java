@@ -22,4 +22,8 @@ public class HeapDataStructure {
         
         sc.close();
 	}
+	
+	public void sort(Heap heap) {
+		
+	}
 }
